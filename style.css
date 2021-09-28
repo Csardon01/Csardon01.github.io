@@ -14,13 +14,13 @@ body{
   height: 100vh;
   /* overflow: hidden; */
   padding: 10px;
-  background-image: url("Vacation.jpg"); /* Set background to Vacation image */
+  background-image: url("Beach.jpg"); /* Set background to Beach image */
   background-position: center; /* Center the image */
   background-repeat: no-repeat; /* Do not repeat the image */
   background-size: cover; /* Resize the background image to cover the entire container */
 }
 .wrapper{
-  background: linear-gradient(to bottom, #68EACC 0%, #497BE8 100%);
+  background: linear-gradient(to bottom, ##D076D0 0%, #DB724D 100%);
   max-width: 400px;
   width: 100%;
   margin: 120px auto;
