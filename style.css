@@ -29,7 +29,6 @@ body{
   box-shadow: 0px 10px 15px rgba(0,0,0,0.1);
 }
 .wrapper header{
-  font-color: #fff;
   font-size: 30px;
   font-weight: 600;
 }
@@ -108,7 +107,6 @@ body{
   right: 0px;
 }
 .wrapper .footer{
-  font-color: #fff;
   display: flex;
   width: 100%;
   margin-top: 20px;
