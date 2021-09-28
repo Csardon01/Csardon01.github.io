@@ -14,7 +14,7 @@ body{
   height: 100vh;
   /* overflow: hidden; */
   padding: 10px;
-  background-image: url("OBX.jpg"); /* Set background to OBX image */
+  background-image: url("Vacation.jpg"); /* Set background to Vacation image */
   background-position: center; /* Center the image */
   background-repeat: no-repeat; /* Do not repeat the image */
   background-size: cover; /* Resize the background image to cover the entire container */
