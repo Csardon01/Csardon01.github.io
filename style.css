@@ -3,7 +3,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  font-family: 'Marker Felt', fantasy;
+  font-family: 'Courier New', monospace;
 }
 ::selection{
   color: #ffff;
@@ -113,6 +113,7 @@ body{
   margin-top: 20px;
   align-items: center;
   justify-content: space-between;
+  color: #ffff;
 }
 .footer button{
   padding: 6px 10px;
